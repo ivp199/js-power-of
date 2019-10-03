@@ -1,0 +1,24 @@
+{
+  "name": "js-power-of",
+  "version": "1.0.0",
+  "description": "A javascript library exposing the powerOf function which can handle very big numbers as output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivp199/js-power-of.git"
+  },
+  "keywords": [
+    "math.pow",
+    "big",
+    "numbers"
+  ],
+  "author": "ishwar.patil199@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivp199/js-power-of/issues"
+  },
+  "homepage": "https://github.com/ivp199/js-power-of#readme"
+}
